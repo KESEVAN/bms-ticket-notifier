@@ -21,7 +21,7 @@
       "time": "08:30 AM",
       "date": "20260403",
       "cat": "PRIME ROWS",
-      "price": "800.00",
+      "price": "870.00",
       "status": "2"
     },
     "PVFF|45777|20260403|CLASSIC PLUS ROWS": {
@@ -214,7 +214,7 @@
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "1400.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45787|20260404|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
