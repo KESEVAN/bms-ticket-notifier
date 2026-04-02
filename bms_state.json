@@ -13,22 +13,22 @@
       "time": "08:30 AM",
       "date": "20260403",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "800.00",
-      "status": "3"
-    },
-    "PVFF|45777|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "800.00",
-      "status": "3"
+      "price": "900.00",
+      "status": "2"
     },
     "PVFF|45777|20260403|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "08:30 AM",
       "date": "20260403",
       "cat": "PRIME ROWS",
+      "price": "800.00",
+      "status": "2"
+    },
+    "PVFF|45777|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "08:30 AM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "800.00",
       "status": "3"
     },
@@ -110,7 +110,7 @@
       "date": "20260403",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1340.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|45781|20260403|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -133,8 +133,8 @@
       "time": "08:30 AM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "900.00",
-      "status": "3"
+      "price": "1000.00",
+      "status": "2"
     },
     "PVFF|45783|20260404|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -182,7 +182,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1370.00",
-      "status": "2"
+      "status": "1"
     },
     "PVFF|45785|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -222,7 +222,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1370.00",
-      "status": "2"
+      "status": "1"
     },
     "PVFF|45787|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
