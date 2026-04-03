@@ -22,7 +22,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "1370.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45779|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -38,7 +38,7 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|45781|20260403|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -182,7 +182,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1370.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45787|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
